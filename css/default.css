@@ -59,7 +59,7 @@ a img {
 .container {
     height: 100%;
     position: relative;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 .background-accent {
