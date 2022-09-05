@@ -53,7 +53,7 @@ a img {
 .main,
 .container > header {
     margin: 0 auto;
-    padding: 2em;
+    padding: 0em 2em;
 }
 
 .container {
